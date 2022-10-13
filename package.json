@@ -1,0 +1,20 @@
+{
+  "name": "curso-closures-y-scope",
+  "version": "1.0.0",
+  "description": "Un curso de Platzi para practicar esos dos conceptos, closures y scope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrJark/curso-closures-y-scope.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrJark/curso-closures-y-scope/issues"
+  },
+  "homepage": "https://github.com/MrJark/curso-closures-y-scope#readme"
+}
